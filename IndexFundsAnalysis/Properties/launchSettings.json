@@ -2,7 +2,7 @@
   "profiles": {
     "Start": {
       "commandName": "Project",
-      "commandLineArgs": "\"C:\\\\\""
+      "commandLineArgs": "\"csv\\\\\""
     }
   }
 }
